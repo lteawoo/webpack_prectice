@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/lteawoo/webpack_prectice#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "webpack": "^4.43.0",
